@@ -1,0 +1,10 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+
+# Runtime baseline data
+baseline.txt
+
+# IDE files
+.vscode/
